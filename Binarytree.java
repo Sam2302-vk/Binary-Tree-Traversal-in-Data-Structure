@@ -1,7 +1,4 @@
 import java.util.*;
-/**
- * Binarytree
- */
 public class Binarytree {
      Node root;
            class Node{
